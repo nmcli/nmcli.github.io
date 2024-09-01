@@ -1,0 +1,27 @@
+---
+layout: post
+title: "S클라우드 IaaS 유지보수"
+date: 1992-06-29
+excerpt: "OS RH RHOSP"
+tag:
+- OS
+- RH
+- RHOSP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOSP` Maintenance
+
+---
+
+# Project period
+```bash
+2021.03 - 2022.12
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
