@@ -1,0 +1,33 @@
+---
+layout: post
+title: "S증권 데이터센터 이전"
+date: 1992-06-29
+excerpt: "HW RACK DELL IBM LENOVO HPE ETC"
+tag:
+- HW
+- RACK
+- DELL
+- IBM
+- LENOVO
+- HPE
+- ETC
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `HW` x86 Server Datacenter Relocation
+* `RACK` Datacenter Relocation
+* `ETC` Hardware Due Diligence
+
+---
+
+# Project period
+```bash
+2020.02 - 2020.06
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
