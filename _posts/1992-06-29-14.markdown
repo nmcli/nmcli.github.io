@@ -1,0 +1,30 @@
+---
+layout: post
+title: "S은행 IP-CCTV 서버 구축"
+date: 1992-06-29
+excerpt: "HW DELL OS MS WIN"
+tag:
+- HW
+- DELL
+- OS
+- MS
+- WIN
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `DELL` x86 Server Rack Mount
+* `MS` Windows Server 2012 R2 OS Installation & Configuration
+
+---
+
+# Project period
+```bash
+2019.10 - 2019.11
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
