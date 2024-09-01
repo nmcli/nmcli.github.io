@@ -1,0 +1,28 @@
+---
+layout: post
+title: "K은행 바젤3 프로젝트 서버 구축"
+date: 1992-06-29
+excerpt: "HW DELL ETC"
+tag:
+- HW
+- DELL
+- ETC
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `DELL` x86 Server Rack Mount
+* `ETC` Portmap Drawing
+
+---
+
+# Project period
+```bash
+2020.06 - 2021.06
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
