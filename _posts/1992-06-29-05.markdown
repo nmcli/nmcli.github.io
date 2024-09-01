@@ -1,0 +1,31 @@
+---
+layout: post
+title: "S은행 Swiftnet Upgrade 서버 구축"
+date: 1992-06-29
+excerpt: "HW DELL HPE OS RH RHEL"
+tag:
+- HW
+- DELL
+- HPE
+- OS
+- RH
+- RHEL
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `DELL` x86 Server Rack Mount
+* `RHEL` OS Installation & Configuration
+
+---
+
+# Project period
+```bash
+2018.08 - 2018.11
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
