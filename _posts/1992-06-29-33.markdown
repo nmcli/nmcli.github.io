@@ -1,0 +1,27 @@
+---
+layout: post
+title: "H은행 PaaS 플랫폼 구축"
+date: 1992-06-29
+excerpt: "OS RH RHOCP"
+tag:
+- OS
+- RH
+- RHOCP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` System Setup
+
+---
+
+# Project period
+```bash
+2022.12 - 2024.03
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
