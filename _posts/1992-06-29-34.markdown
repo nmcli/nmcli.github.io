@@ -1,0 +1,27 @@
+---
+layout: post
+title: "K개발원 PaaS 플랫폼 운영"
+date: 1992-06-29
+excerpt: "OS RH RHOCP"
+tag:
+- OS
+- RH
+- RHOCP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` System Operation
+
+---
+
+# Project period
+```bash
+2024.05 - 
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
