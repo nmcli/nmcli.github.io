@@ -2,7 +2,7 @@
 layout: post
 title: "[01]K생명 인공지능기반 챗봇 1단계 서버 구축"
 date: 1992-06-29
-excerpt: "HW/RACK/LENOVO"
+excerpt: "HW RACK LENOVO"
 tag:
 - HW
 - RACK
@@ -14,14 +14,14 @@ comments: true
 ![Untitled](/assets/img/linux_logo.png)
 # Technologies used
 **Watch out!**LENOVO Rack(+PDU) Installation
-**Watch out!**LENOVO x86 Server Rack Mount
-**Watch out!**LENOVO Network Swith Rack Mount
+LENOVO x86 Server Rack Mount
+LENOVO Network Swith Rack Mount
 
 ---
 
 # Project period
 ```bash
-2018.08 ~ 2018.08
+2018.08 - 2018.08
 ```
 ---
 
