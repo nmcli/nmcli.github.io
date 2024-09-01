@@ -1,0 +1,28 @@
+---
+layout: post
+title: "A캐피탈 전자금융 차세대 프로젝트"
+date: 1992-06-29
+excerpt: "OS RH RHEL RHCS"
+tag:
+- OS
+- RH
+- RHOSP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHEL` OS Installation & Configuration
+* `RHCS` Installation & Configuration
+
+---
+
+# Project period
+```bash
+2022.11 - 2022.02
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
