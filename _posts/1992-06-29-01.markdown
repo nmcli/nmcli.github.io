@@ -11,33 +11,19 @@ comments: true
 
 ---
 
-![Untitled](/assets/img/logos/vendor_logo.png)
-# Information
-> Vendor: vendor_name
->
-> MODEL: solution_name
->
-> Version: version_number
->
-> Related: /* 없으면 공란 */
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+**Watch out!**LENOVO Rack(+PDU) Installation
+**Watch out!**LENOVO x86 Server Rack Mount
+**Watch out!**LENOVO Network Swith Rack Mount
 
 ---
 
-# 명령어
-#### 간단한 설명
+# Project period
 ```bash
-cmd /* 주석 */
+2018.08 ~ 2018.08
 ```
-`주석` 정보
+---
+
 <div markdown="0"><a href="#" class="btn">Home</a></div>
-[목록](https://nmcli.github.io//documents-list/)
-
-========================================================
-
-/* 키보드 */
-<kbd>Ctrl</kbd>+<kbd>V</kbd>
-/* notice */
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-/* box */
-`box`
+[목록](https://nmcli.github.io//project-list/)
