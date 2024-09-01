@@ -1,0 +1,27 @@
+---
+layout: post
+title: "S클라우드 IaaS 업그레이드 프로젝트(16->16 minor version)"
+date: 1992-06-29
+excerpt: "OS RH RHOSP"
+tag:
+- OS
+- RH
+- RHOSP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOSP` Minor Version (16.x -> 16.x) Upgrade
+
+---
+
+# Project period
+```bash
+2022.06 - 2022.08
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
