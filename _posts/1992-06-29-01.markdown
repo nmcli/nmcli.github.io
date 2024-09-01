@@ -15,7 +15,7 @@ comments: true
 # Technologies used
 * `LENOVO` Rack(+PDU) Installation
 * `LENOVO` x86 Server Rack Mount
-* `LENOVO` Network Swith Rack Mount
+* `LENOVO` Network Switch Rack Mount
 
 ---
 
