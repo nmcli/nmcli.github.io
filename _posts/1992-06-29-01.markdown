@@ -13,9 +13,9 @@ comments: true
 
 ![Untitled](/assets/img/linux_logo.png)
 # Technologies used
-**Watch out!**LENOVO Rack(+PDU) Installation
-LENOVO x86 Server Rack Mount
-LENOVO Network Swith Rack Mount
+`LENOVO` Rack(+PDU) Installation
+`LENOVO` x86 Server Rack Mount
+`LENOVO` Network Swith Rack Mount
 
 ---
 
