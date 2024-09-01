@@ -1,0 +1,30 @@
+---
+layout: post
+title: "H은행 PaaS 플랫폼 구축 CI/CD 부문 PoC 참여"
+date: 1992-06-29
+excerpt: "OS RH RHOCP TOOL TEK"
+tag:
+- OS
+- RH
+- RHOCP
+- TOOL
+- TEK
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` Configuration
+* `TOOL` Tekton CI/CD PoC Participation
+
+---
+
+# Project period
+```bash
+2022.06 - 2022.08
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
