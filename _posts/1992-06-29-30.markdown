@@ -18,7 +18,12 @@ comments: true
 
 ---
 
-# Project period
+# Role
+* ***System Engineer***
+
+---
+
+# Period
 ```bash
 2022.11 - 2022.02
 ```
