@@ -91,7 +91,7 @@ comments: true
 `HW``DELL``IBM``OS``RH``RHEL`
 
 * #### [K은행 바젤3 프로젝트 서버 구축](https://nmcli.github.io//27/)
-`HW``DELL`
+`HW``DELL``ETC`
 
 ## 2021
 
