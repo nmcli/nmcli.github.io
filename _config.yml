@@ -8,7 +8,7 @@ logo: "assets/img/logo.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://nmcli.github.io
 
 # Jekyll
 permalink: /:title/
@@ -29,27 +29,27 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-# plus: username
+google:
+ plus: chooys629
 #analytics:
 #verify:
 #ad-client:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: username
-facebook: username
-github-url: username
+$twitter: username
+#facebook: username
+github-url: nmcli
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-instagram: username
+instagram: _y_sun
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
