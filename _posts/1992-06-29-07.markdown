@@ -22,7 +22,7 @@ comments: true
 
 # Project period
 ```bash
-2018.10 - 2018.12
+2018.10 - 2019.02
 ```
 ---
 
