@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Project list"
-date:   1992-06-29
-excerpt: "Search Index"
+title: Project list
+date: {}
+excerpt: Search Index
 project: true
 comments: true
 ---
@@ -87,7 +87,7 @@ comments: true
 * #### [S증권 데이터센터 이전](https://nmcli.github.io//25/)
 `HW``RACK``DELL``IBM``LENOVO``HPE``ETC`
 
-* #### [I금융 유지보수](https://nmcli.github.io//26/)
+* #### [I금융 x86 서버 및 RHEL OS 유지보수](https://nmcli.github.io//26/)
 `HW``DELL``IBM``OS``RH``RHEL`
 
 * #### [K은행 바젤3 프로젝트 서버 구축](https://nmcli.github.io//27/)
