@@ -2,8 +2,8 @@
 layout: page
 title: About
 tags:
- - about
-date: 1992-06-29
+  - about
+date: {}
 comments: false
 ---
 
@@ -59,12 +59,13 @@ comments: false
 * VTSP - Foundation 2018 (2019.06)
 * VSP - Foundation 2018 (2019.06)
 * Microsoft Azure Fundamentals (2020.06)
-* RED HAT CERTIFIED SYSTEM ADMINISTRATOR[RHCSA] (2020.12)
+* RED HAT CERTIFIED SYSTEM ADMINISTRATOR[RHCSA] V8 (2020.12)
 * SUSE Technical Sales Specialist - SUSE Rancher (2021.09)
 * SUSE Technical Sales Specialist - SUSE Linux Enterprise Server Foundations (2021.09)
 * 리눅스마스터 1급 (2021.12)
 * NAVER Cloud Platform Certified Associate[NCA] (2022.12)
 * Certified Kubernetes Administrator[CKA] (2023.12)
+* RED HAT CERTIFIED SYSTEM ADMINISTRATOR[RHCSA] V9 (2024.09)
 
 ## Skills
 * x86 Server [DELL, HP, IBM, LENOVO]
