@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "I금융 유지보수"
-date: 1992-06-29
-excerpt: "HWDELLIBMOSRHRHEL"
+title: I금융 x86 서버 및 RHEL OS 유지보수
+date: {}
+excerpt: HWDELLIBMOSRHRHEL
 tag:
-- HW
-- DELL
-- IBM
-- OS
-- RH
-- RHEL
+  - HW
+  - DELL
+  - IBM
+  - OS
+  - RH
+  - RHEL
 comments: true
-
 ---
 
 ![Untitled](/assets/img/linux_logo.png)
