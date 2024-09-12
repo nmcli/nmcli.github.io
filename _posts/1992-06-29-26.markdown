@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I금융 x86 서버 및 RHEL OS 유지보수"
+title: "I금융 유지보수"
 date: {}
 excerpt: HWDELLIBMOSRHRHEL
 tag:
