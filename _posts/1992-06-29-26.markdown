@@ -1,0 +1,42 @@
+---
+layout: post
+title: "I금융 유지보수"
+date: {}
+excerpt: HWDELLIBMOSRHRHEL
+tag:
+  - HW
+  - DELL
+  - IBM
+  - OS
+  - RH
+  - RHEL
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+
+# Technologies used
+
+* `HW` x86 Server Maintenance
+* `RHEL` OS Maintenance
+
+---
+
+# Role
+
+* ***System Engineer***
+
+---
+
+# Period
+
+```bash
+2020.06 - 2022.12
+```
+
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+
+[목록](https://nmcli.github.io//project-list/)
