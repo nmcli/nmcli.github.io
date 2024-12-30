@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project list
-date: {}
+date: 1992-06-29
 excerpt: Search Index
 project: true
 comments: true
