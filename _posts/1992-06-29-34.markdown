@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "K개발원 PaaS 플랫폼 운영"
-date: 1992-06-29
+date: "1992-06-29"
 excerpt: "OS RH RHOCP"
 tag:
 - OS
