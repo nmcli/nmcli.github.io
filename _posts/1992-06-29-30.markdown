@@ -6,6 +6,7 @@ excerpt: "OS RH RHEL RHCS"
 tag:
 - OS
 - RH
+- RHCS
 comments: true
 
 
