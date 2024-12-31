@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "S은행 출입통제 서버 구축"
-date: 1992-06-29
+date: "1992-06-29"
 excerpt: "HW DELL OS MS WIN"
 tag:
 - HW
