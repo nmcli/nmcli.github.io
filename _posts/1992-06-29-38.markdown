@@ -1,0 +1,32 @@
+---
+layout: post
+title: "H은행 PaaS 플랫폼 업그레이드"
+date: 1992-06-29
+excerpt: "OS RH RHOCP"
+tag:
+- OS
+- RH
+- RHOCP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` Minor Version (4.16.x -> 4.17.x -> 4.18.x) Upgrade
+
+---
+
+# Role
+* ***Cloud Engineer***
+
+---
+
+# Period
+```bash
+2025.07 - 2025.08
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
