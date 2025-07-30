@@ -1,0 +1,33 @@
+---
+layout: post
+title: "O금융 OV 플랫폼 PoC 참여"
+date: 1992-06-29
+excerpt: "OS RH RHOCP RHOV"
+tag:
+- OS
+- RH
+- RHOCP
+- RHOV
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOV` Engine Setup
+
+---
+
+# Role
+* ***Cloud Engineer***
+
+---
+
+# Period
+```bash
+2025.05 - 2025.05
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
