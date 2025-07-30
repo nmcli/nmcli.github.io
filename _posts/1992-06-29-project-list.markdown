@@ -125,6 +125,18 @@ comments: true
 * #### [H은행 PaaS 플랫폼 유지보수](https://nmcli.github.io//35/)
 `OS``RH``RHOCP`
 
+* #### [O금융 OV 플랫폼 PoC 참여](https://nmcli.github.io//36/)
+`OS``RH``RHOCP``RHOV`
+
+* #### [H금융 PaaS 플랫폼 유지보수](https://nmcli.github.io//37/)
+`OS``RH``RHOCP`
+
+* #### [H은행 PaaS 플랫폼 업그레이드](https://nmcli.github.io//38/)
+`OS``RH``RHOCP`
+
+* #### [H금융 PaaS 플랫폼 업그레이드](https://nmcli.github.io//39/)
+`OS``RH``RHOCP`
+
 ---
 
 # Alias [Tags]
@@ -139,6 +151,7 @@ comments: true
 * `RHEL` Red Hat Enterprise Linux
 * `RHOSP` Red Hat OpenStack Platform
 * `RHOCP` Red Hat OpenShift Container Platform
+* `RHOV` Red Hat OpenShift Virtualization
 * `RHCS` Red Hat Cluster Suite
 * `MS` Microsoft
 * `WIN` Windows Server
