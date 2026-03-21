@@ -1,0 +1,30 @@
+---
+layout: post
+title: "S의료 PaaS 플랫폼 구축 PoC"
+date: 1992-06-29
+excerpt: "k8s"
+tag:
+- k8s
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `k8s` End-to-end Infrastructure PoC
+
+---
+
+# Role
+* ***Cloud Engineer***
+
+---
+
+# Period
+```bash
+2025.11 - 2025.12
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
