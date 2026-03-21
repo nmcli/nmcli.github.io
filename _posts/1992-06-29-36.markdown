@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O금융 OV 플랫폼 PoC 참여"
+title: "O금융 가상화 플랫폼 구축 PoC"
 date: 1992-06-29
 excerpt: "OS RH RHOCP RHOV"
 tag:
