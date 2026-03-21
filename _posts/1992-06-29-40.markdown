@@ -1,0 +1,35 @@
+---
+layout: post
+title: "O금융 시스템 통합유지보수"
+date: 1992-06-29
+excerpt: "OS RH RHEL RHOCP"
+tag:
+- OS
+- RH
+- RHEL
+- RHOCP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `OS` System Maintenance
+* `RHEL` System Maintenance
+* `RHOCP` System Maintenance
+
+---
+
+# Role
+* ***Infrastructure Engineer***
+
+---
+
+# Period
+```bash
+2025.07 - 2025.07
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
