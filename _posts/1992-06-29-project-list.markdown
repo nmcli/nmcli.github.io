@@ -125,7 +125,7 @@ comments: true
 * #### [H은행 PaaS 플랫폼 유지보수](https://nmcli.github.io//35/)
 `OS``RH``RHOCP`
 
-* #### [O금융 OV 플랫폼 PoC 참여](https://nmcli.github.io//36/)
+* #### [O금융 가상화 플랫폼 구축 PoC ](https://nmcli.github.io//36/)
 `OS``RH``RHOCP``RHOV`
 
 * #### [H금융 PaaS 플랫폼 유지보수](https://nmcli.github.io//37/)
@@ -135,6 +135,26 @@ comments: true
 `OS``RH``RHOCP`
 
 * #### [H금융 PaaS 플랫폼 업그레이드](https://nmcli.github.io//39/)
+`OS``RH``RHOCP`
+
+* #### [O금융 시스템 통합유지보수](https://nmcli.github.io//40/)
+`OS``RH``RHEL``RHOCP`
+
+* #### [K문고 PaaS 플랫폼 업그레이드](https://nmcli.github.io//41/)
+`OS``RH``RHOCP`
+
+* #### [S의료 PaaS 플랫폼 구축 PoC](https://nmcli.github.io//42/)
+`k8s`
+
+## 2026
+
+* #### [K생보 시스템 유지보수](https://nmcli.github.io//43/)
+`OS``RH``RHEL`
+
+* #### [S의료 PaaS 플랫폼 유지보수](https://nmcli.github.io//44/)
+`OS``RH``RHOCP`
+
+* #### [S의료 PaaS 플랫폼 업그레이드](https://nmcli.github.io//45/)
 `OS``RH``RHOCP`
 
 ---
