@@ -125,7 +125,7 @@ comments: true
 * #### [H은행 PaaS 플랫폼 유지보수](https://nmcli.github.io//35/)
 `OS``RH``RHOCP`
 
-* #### [O금융 가상화 플랫폼 구축 PoC ](https://nmcli.github.io//36/)
+* #### [O금융 가상화 플랫폼 구축 PoC](https://nmcli.github.io//36/)
 `OS``RH``RHOCP``RHOV`
 
 * #### [H금융 PaaS 플랫폼 유지보수](https://nmcli.github.io//37/)
