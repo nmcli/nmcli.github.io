@@ -1,0 +1,34 @@
+---
+layout: post
+title: "K개발원 PaaS/IaaS 플랫폼 구축 산출물 작성"
+date: 1992-06-29
+excerpt: "OS RH RHOCP RHOV"
+tag:
+- OS
+- RH
+- RHOCP
+- RHOV
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` Deliverable Documentation
+* `RHOV` Deliverable Documentation
+
+---
+
+# Role
+* ***Platform Engineer***
+
+---
+
+# Period
+```bash
+2026.08 - 2026.09
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
