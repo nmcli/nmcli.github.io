@@ -61,8 +61,11 @@ comments: false
 * K문고 PaaS 플랫폼 업그레이드 - 2025.11
 * S의료 PaaS 플랫폼 구축 PoC - 2025.11~2025.12
 * K생보 시스템 유지보수 - 2026.01~
-* S의료 PaaS 플랫폼 유지보수 2026.02~
-* S의료 PaaS 플랫폼 업그레이드 2026.02~2026.04
+* S의료 PaaS 플랫폼 유지보수 - 2026.02~
+* S의료 PaaS 플랫폼 업그레이드 - 2026.02~2026.04
+* K개발원 PaaS/IaaS 플랫폼 재해 복구 센터 구축 - 2026.06~2026.07
+* K개발원 PaaS 플랫폼 애플리케이션 배포 지원 - 2026.08
+* K개발원 PaaS/IaaS 플랫폼 구축 산출물 작성 - 2026.08~2026.09
 
 ## Certifications
 * 네트워크관리사 2급 (2017.09)
@@ -84,5 +87,6 @@ comments: false
 * x86 Server [DELL, HP, IBM, LENOVO]
 * Linux [CentOS, RHEL]
 * OpenStack [RHOSP]
+* Virtualization [RHOV]
 * VMWare [ESXi]
 * Kubernetes [k8s, RHOCP]
