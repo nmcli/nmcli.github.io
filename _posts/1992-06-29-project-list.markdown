@@ -157,6 +157,18 @@ comments: true
 * #### [S의료 PaaS 플랫폼 업그레이드](https://nmcli.github.io//45/)
 `OS``RH``RHOCP`
 
+* #### [K개발원 PaaS/IaaS 플랫폼 재해 복구 센터 구축](https://nmcli.github.io//46/)
+`OS``RH``RHOCP``RHOV`
+
+* #### [K개발원 PaaS 플랫폼 애플리케이션 배포 지원](https://nmcli.github.io//47/)
+`OS``RH``RHOCP``APP`
+
+* #### [K개발원 PaaS 플랫폼 애플리케이션 배포 지원](https://nmcli.github.io//47/)
+`OS``RH``RHOCP``APP`
+
+* #### [K개발원 PaaS/IaaS 플랫폼 구축 산출물 작성](https://nmcli.github.io//48/)
+`OS``RH``RHOCP``RHOV`
+
 ---
 
 # Alias [Tags]
@@ -184,4 +196,5 @@ comments: true
 * `TEK` Tekton
 * `Pod` Podman
 * `k8s` Kubernetes
+* `APP` Application
 * `ETC` etc.
