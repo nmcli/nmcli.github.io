@@ -163,9 +163,6 @@ comments: true
 * #### [K개발원 PaaS 플랫폼 애플리케이션 배포 지원](https://nmcli.github.io//47/)
 `OS``RH``RHOCP``APP`
 
-* #### [K개발원 PaaS 플랫폼 애플리케이션 배포 지원](https://nmcli.github.io//47/)
-`OS``RH``RHOCP``APP`
-
 * #### [K개발원 PaaS/IaaS 플랫폼 구축 산출물 작성](https://nmcli.github.io//48/)
 `OS``RH``RHOCP``RHOV`
 
