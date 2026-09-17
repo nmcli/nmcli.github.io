@@ -1,0 +1,34 @@
+---
+layout: post
+title: "K개발원 PaaS/IaaS 플랫폼 재해 복구 센터 구축"
+date: 1992-06-29
+excerpt: "OS RH RHOCP RHOV"
+tag:
+- OS
+- RH
+- RHOCP
+- RHOV
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` System Setup
+* `RHOV` System Setup
+
+---
+
+# Role
+* ***Platform Engineer***
+
+---
+
+# Period
+```bash
+2026.06 - 2026.07
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
