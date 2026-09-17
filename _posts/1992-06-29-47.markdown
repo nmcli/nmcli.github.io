@@ -1,0 +1,33 @@
+---
+layout: post
+title: "K개발원 PaaS 플랫폼 애플리케이션 배포 지원"
+date: 1992-06-29
+excerpt: "OS RH RHOCP APP"
+tag:
+- OS
+- RH
+- RHOCP
+- APP
+comments: true
+
+---
+
+![Untitled](/assets/img/linux_logo.png)
+# Technologies used
+* `RHOCP` Application Deployment Support
+
+---
+
+# Role
+* ***Platform Engineer***
+
+---
+
+# Period
+```bash
+2026.08 - 2026.08
+```
+---
+
+<div markdown="0"><a href="#" class="btn">Home</a></div>
+[목록](https://nmcli.github.io//project-list/)
